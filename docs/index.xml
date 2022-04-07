@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dascenciosanchez.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://dascenciosanchez.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dascenciosanchez.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! Durante esta parte del curso queremos aprender fundamentos de: -Python -HTML -CSS -JAVA -NodeJS</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://dascenciosanchez.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16,15 +25,6 @@
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
  Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
-    </item>
-    
-    <item>
-      <title>Mi ruta de aprendizaje en LaunchX</title>
-      <link>https://dascenciosanchez.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dascenciosanchez.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>Hola! Durante esta parte del curso queremos aprender fundamentos de: -Python -HTML -CSS -JAVA -NodeJS</description>
     </item>
     
     <item>
