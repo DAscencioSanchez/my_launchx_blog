@@ -8,8 +8,8 @@ Hola ✌️  soy el explorer Diana y este es mi blog personal donde compartiré 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas son:
--Aprender Git y Github
--Aplicar estos conocimientos de front-end
--Aprender otros lenguajes
+- Aprender Git y Github
+- Aplicar estos conocimientos de front-end
+- Aprender otros lenguajes
 
 🚀
